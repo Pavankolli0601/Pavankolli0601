@@ -1,8 +1,3 @@
-# Replace README via CLI
-git clone https://github.com/Pavankolli0601/Pavankolli0601.git
-cd Pavankolli0601
-cat > README.md <<'MD'
-<div align="center">
   <h1>Hi, I'm Pavan Kolli 👋</h1>
   <p><b>Senior Data Engineer — AWS • Snowflake • Python • SQL • dbt • Airflow • Terraform</b></p>
   <p>
@@ -14,7 +9,7 @@ cat > README.md <<'MD'
 
 ---
 
-## TL;DR
+## Summary
 7+ years building cloud data platforms, ELT/ETL, and analytics pipelines across e-commerce and financial services. I focus on scalable, secure, and cost-efficient data delivery.
 
 ## What I Do
@@ -43,17 +38,3 @@ cat > README.md <<'MD'
 - **B.Tech, Computer Science — Osmania University (2013 – 2017)**
 
 ---
-
-### Featured Repositories (pin later)
-- `data-engineering-portfolio`
-- `aws-snowflake-datalake`
-- `data-quality-framework`
-- `kafka-airflow-streaming`
-- `terraform-iac-templates`
-- `dbt-models-demo`
-
-> Tip: Use GitHub “Customize your pins” once these repos exist.
-MD
-git add README.md
-git commit -m "feat: custom profile README"
-git push
