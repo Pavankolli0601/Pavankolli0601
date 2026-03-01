@@ -13,17 +13,6 @@
 
 <div align="center">
 
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=29B5E8&center=true&vCenter=true&width=780&lines=☁️+Architecting+Petabyte-Scale+Cloud+Data+Platforms;🏥+Healthcare+%26+Finance+Data+Engineering+Expert;⚙️+AWS+%7C+Snowflake+%7C+Azure+%7C+Databricks+%7C+GCP;🔧+dbt+%7C+Airflow+%7C+Kafka+%7C+Terraform+%7C+PySpark;🛡️+HIPAA+Compliant+%7C+DataOps+%7C+CI%2FCD+Automation;📊+Turning+Raw+Data+into+Business+Intelligence)](https://git.io/typing-svg)
-
-<!-- PROFILE PHOTO — circular, professional -->
-<img src="https://raw.githubusercontent.com/Pavankolli0601/Pavankolli0601/main/profile.jpg"
-     width="150"
-     height="150"
-     style="border-radius:50%; border: 4px solid #29B5E8;"
-     alt="Pavan Kolli - Senior Data Engineer"/>
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kolli7/)
