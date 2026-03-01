@@ -190,36 +190,50 @@ superpower      : "Legacy on-prem → Cloud migrations with 99-100% data integri
 
 ---
 
-### 🏥 [AWS · dbt · Snowflake Enterprise Pipeline](https://github.com/Pavankolli0601/aws-dbt-snowflake-project)
+### 🏥 [AWS S3 · dbt · Snowflake Data Engineering Pipeline](https://github.com/Pavankolli0601/aws-dbt-snowflake-project)
 
-> **Enterprise Snowflake data warehouse for CVS Health — unified patient & pharmacy analytics**
-
+> **Production-style AWS → Snowflake → dbt pipeline — Medallion Architecture, incremental models, SCD Type 2, CI/CD, data quality tests**
 ```
 📦 aws-dbt-snowflake-project
- ├── 🔄 Ingestion Layer      → AWS Glue + Lambda + S3 Events (Serverless)
- │                             Sources: S3, RDS, DynamoDB, Lambda
- ├── 🏗️  Warehouse Layer      → Snowflake (Snowpipe · Streams · Tasks · UDFs)
- ├── 🔧 Transform Layer      → dbt (Staging · Intermediate · Marts · Snapshots)
- │                             Jinja macros · YAML configs · automated testing
- ├── 🔐 Governance Layer     → RBAC · Dynamic Masking · Row Access Policies
- │                             Federated Auth · OAuth/SSO · Audit Logging
- ├── 🚀 CI/CD Layer          → GitHub Actions (dbt · Snowflake · QA · versioning)
- ├── 📡 Observability Layer  → CloudWatch Anomaly Detection · Data Quality SLAs
- └── 🏗️  IaC Layer            → Terraform (Snowflake objects · AWS · IAM · Network)
+ ├── 🥉 Bronze Layer     → models/bronze/   · Incremental merge · idempotent loads
+ │                          bronze_bookings · bronze_hosts · bronze_listings
+ ├── 🥈 Silver Layer     → models/silver/   · Cleaned & standardized · rolling lookback
+ ├── 🥇 Gold Layer       → models/gold/     · dim_bookings · dim_hosts · dim_listings
+ │                          fact table · OBT (One Big Table) · star schema
+ ├── 📸 Snapshots        → snapshots/       · SCD Type 2 · valid-from/to · change detection
+ ├── 🔧 Macros           → macros/          · Reusable SQL utilities
+ ├── ✅ Tests            → tests/           · Schema + singular data quality tests
+ ├── 🚀 CI/CD            → GitHub Actions   · dbt build · dbt test · SQLFluff lint
+ └── 🔐 Security         → Env vars · GitHub Secrets · no hardcoded credentials
 ```
 
-| Layer | Technology | Outcome |
+| Layer | Models | Purpose |
 |---|---|---|
-| Serverless Ingestion | AWS Glue · Lambda · S3 · RDS · DynamoDB | ↓ 40% ingestion latency |
-| Data Warehouse | Snowflake Enterprise | ↓ 40% data access time |
-| Transformations | dbt + Jinja macros | Zero deployment errors |
-| IaC Automation | Terraform | ↓ 80% manual setup time |
-| Security & Compliance | HIPAA · RBAC · Masking · OAuth/SSO | ✅ All quarterly audits passed |
-| CI/CD Pipeline | GitHub Actions | 100% compliant releases |
-| Observability | CloudWatch + SLA alerting | ↓ 30% data downtime |
-| Business Impact | Unified analytics platform | ↑ 25% decision-making speed |
+| 🥉 Bronze | `bronze_bookings` · `bronze_hosts` · `bronze_listings` | Raw incremental ingestion from AWS S3 |
+| 🥈 Silver | Cleaned transforms | Standardized data with rolling lookback window |
+| 🥇 Gold | `dim_bookings` · `dim_hosts` · `dim_listings` · `fact` · `obt` | Analytics-ready star schema + OBT |
+| 📸 Snapshots | Bookings · Hosts · Listings | SCD Type 2 historical state tracking |
 
-`snowflake` `aws` `dbt` `terraform` `airflow` `github-actions` `hipaa` `healthcare` `python` `jinja`
+**CI/CD on every PR / push to main:**
+```
+dbt deps → dbt compile → dbt build → dbt test → sqlfluff lint → upload artifacts
+```
+
+**Key Features:**
+- ✅ Incremental merge-based ingestion with idempotent safe re-runs
+- ✅ Rolling-window late-arriving data handling (`lookback_days` configurable)
+- ✅ SCD Type 2 snapshots with valid-from/to timestamps
+- ✅ Enforced dbt model contracts on Gold layer
+- ✅ Automated data quality tests (unique · not-null · relationships · source freshness)
+- ✅ SQLFluff linting enforced in CI pipeline
+- ✅ Zero hardcoded credentials — all via GitHub Secrets + env vars
+
+![dbt](https://img.shields.io/badge/dbt_core_1.11-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![SQLFluff](https://img.shields.io/badge/SQLFluff-Linting-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -408,35 +422,11 @@ superpower      : "Legacy on-prem → Cloud migrations with 99-100% data integri
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pavankolli0601&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=29B5E8&icon_color=29B5E8&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavankolli0601&layout=compact&theme=tokyonight&hide_border=true&title_color=29B5E8&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="175"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pavankolli0601&theme=tokyonight&hide_border=true&background=0d1117&stroke=29B5E8&ring=29B5E8&fire=FF6B6B&currStreakNum=ffffff&sideNums=29B5E8&currStreakLabel=29B5E8&sideLabels=c9d1d9&dates=c9d1d9)](https://streak-stats.demolab.com)
-
-</div>
-
-<div align="center">
-
-[![Pavan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pavankolli0601&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=29B5E8&line=29B5E8&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 📬 Let's Build Something Together
 
 <div align="center">
 
-**Actively seeking Senior Data Engineer · Data Architect · Staff roles**
+**Actively seeking Senior Data Engineer · Data Architect · roles**
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kolli7/)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pavankolli0601@gmail.com)
