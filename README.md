@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=64FFDA&center=true&vCenter=true&width=950&lines=☁️+Multi-Cloud+Data+Engineer+%7C+AWS+·+Azure+·+GCP;❄️+Snowflake+%7C+Databricks+%7C+dbt+%7C+Airflow+%7C+Kafka;🤖+Generative+AI+%7C+AI-Ready+Data+Architectures+%7C+LLM+Pipelines;🏥+Healthcare+%26+Finance+Data+Engineering+Expert;🔐+HIPAA+Compliant+%7C+DataOps+%7C+CI%2FCD+Automation;🏅+GenAI+Fundamentals+%7C+Azure+AI+Essentials+%7C+SnowPro+Core;🚀+Open+to+Senior+%2F+Staff+%2F+Architect+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=64FFDA&center=true&vCenter=true&width=950&lines=☁️+Multi-Cloud+Data+Engineer+%7C+AWS+·+Azure+·+GCP;❄️+Snowflake+%7C+Databricks+%7C+dbt+%7C+Airflow+%7C+Kafka;🤖+Generative+AI+%7C+AI-Ready+Data+Architectures+%7C+LLM+Pipelines;🏥+Healthcare+%26+Finance+Data+Engineering+Expert;🔐+HIPAA+Compliant+%7C+DataOps+%7C+CI%2FCD+Automation;🏅+AWS+Certified+DE+%7C+GenAI+Fundamentals+%7C+SnowPro+Core;🚀+Open+to+Senior+%2F+Staff+%2F+Architect+Roles)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,10 +24,10 @@
 
 <br/>
 
-[![GenAI Fundamentals](https://img.shields.io/badge/Generative_AI-Fundamentals_Certified-412991?style=for-the-badge&logo=openai&logoColor=white)](https://www.linkedin.com/in/pavan-kolli7/)
-[![Azure AI](https://img.shields.io/badge/Microsoft_Azure_AI-Essentials_Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.linkedin.com/in/pavan-kolli7/)
-[![SnowPro Core](https://img.shields.io/badge/SnowPro_Core-Certified-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.linkedin.com/in/pavan-kolli7/)
 [![AWS Certified](https://img.shields.io/badge/AWS_Certified-Data_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.linkedin.com/in/pavan-kolli7/)
+[![GenAI Fundamentals](https://img.shields.io/badge/Generative_AI-Fundamentals_Certified-412991?style=for-the-badge&logo=openai&logoColor=white)](https://www.linkedin.com/in/pavan-kolli7/)
+[![SnowPro Core](https://img.shields.io/badge/SnowPro_Core-Certified-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.linkedin.com/in/pavan-kolli7/)
+[![Azure AI](https://img.shields.io/badge/Microsoft_Azure_AI-Essentials_Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.linkedin.com/in/pavan-kolli7/)
 
 <br/>
 
@@ -58,29 +58,29 @@ personal:
   email        : "Pavankolli0601@gmail.com"
 
 summary        : |
-  Senior Data Engineer specializing in scalable, multi-cloud data
-  platforms across Azure, AWS, and GCP. Deep hands-on experience in
-  Snowflake, Databricks, dbt, and Airflow — transforming complex
-  datasets into high-performing real-time streaming pipelines.
-  Certified in Generative AI, focused on designing secure, AI-ready
-  architectures that drive business intelligence and empower advanced
-  ML workflows.
+  Senior Data Engineer with 7+ years architecting scalable, multi-cloud
+  data platforms on AWS, Azure, and GCP. Deep expertise in Snowflake,
+  Databricks, dbt, Apache Airflow, and Kafka — delivering high-throughput
+  batch and real-time pipelines across healthcare, financial services
+  (HDFC Bank), and e-commerce (Flipkart). Certified in Generative AI and
+  Azure AI; experienced in AI-ready, HIPAA-compliant architectures,
+  Terraform IaC, and CI/CD-driven DataOps.
 
 certifications:
-  - "🤖 Generative AI Fundamentals"
-  - "🔷 Microsoft Azure AI Essentials (Microsoft & LinkedIn)"
-  - "❄️  SnowPro Core Certified"
   - "🏅 AWS Certified Data Engineer – Associate"
+  - "🤖 Generative AI Fundamentals"
+  - "❄️  SnowPro Core Certified"
+  - "🔷 Microsoft Azure AI Essentials (Microsoft & LinkedIn)"
 
 top_skills:
-  - "Azure Key Vault"
-  - "Data Observability"
-  - "Amazon Athena"
+  - "AWS Bedrock & Generative AI Pipelines"
+  - "Snowflake Enterprise Architecture"
+  - "Terraform IaC & DataOps Automation"
 
 specializations:
   - "☁️  Multi-Cloud platforms (AWS · Azure · GCP · Snowflake · Databricks)"
-  - "🤖  Generative AI · AI-ready architectures · LLM pipeline integration"
-  - "🏥  Healthcare data engineering (HIPAA/PII · CVS Health · Payer/Provider)"
+  - "🤖  Generative AI · RAG pipelines · AWS Bedrock · LangChain · LLM integration"
+  - "🏥  Healthcare data engineering (HIPAA/PII/PHI · CVS Health · Payer/Pharmacy)"
   - "🏦  Banking & finance (Regulatory reporting · Audit compliance · HDFC Bank)"
   - "🛒  E-Commerce real-time streaming (Kafka · Airflow · Azure Synapse · Flipkart)"
   - "🔐  Data governance (RBAC · ABAC · Azure Key Vault · Dynamic Masking)"
@@ -100,10 +100,10 @@ target_roles    : ["Senior Data Engineer", "Staff Data Engineer", "Data Architec
 
 | Certification | Issuer | Status |
 |:---|:---:|:---:|
-| Generative AI Fundamentals | Industry Accreditation | ✅ Certified |
-| Azure AI Essentials Professional Certificate | Microsoft & LinkedIn | ✅ Certified |
-| SnowPro Core Certification | Snowflake | ✅ Certified |
 | AWS Certified Data Engineer – Associate | Amazon Web Services | ✅ Certified |
+| Generative AI Fundamentals | Industry Accreditation | ✅ Certified |
+| SnowPro Core Certification | Snowflake | ✅ Certified |
+| Azure AI Essentials Professional Certificate | Microsoft & LinkedIn | ✅ Certified |
 
 </div>
 
@@ -126,6 +126,20 @@ target_roles    : ["Senior Data Engineer", "Staff Data Engineer", "Data Architec
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/↓%2030%25-Data%20Downtime-64ffda?style=for-the-badge"/><br/><sub>CloudWatch Anomaly Detection</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/↓%2018%25-AWS%20Storage%20Costs-64ffda?style=for-the-badge"/><br/><sub>S3 Lifecycle Policies · CVS Health</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/50%2B%20KPIs-Standardized-64ffda?style=for-the-badge"/><br/><sub>dbt Semantic Layer · 5 Business Units</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/↑%2025%25-Decision%20Speed-64ffda?style=for-the-badge"/><br/><sub>Snowflake DW · CVS Health</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/100%25-Security%20Audits-64ffda?style=for-the-badge"/><br/><sub>HIPAA · Zero Violations · CVS Health</sub>
 </td>
 </tr>
 <tr>
@@ -153,7 +167,7 @@ target_roles    : ["Senior Data Engineer", "Staff Data Engineer", "Data Architec
 <img src="https://img.shields.io/badge/↑%2025%25-Query%20Speed-ff6b6b?style=for-the-badge"/><br/><sub>Azure Synapse SQL · Flipkart</sub>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/100%25-CI%2FCD%20Compliance-ff6b6b?style=for-the-badge"/><br/><sub>GitLab CI/CD · HDFC Bank</sub>
+<img src="https://img.shields.io/badge/↓%2045%25-Job%20Execution%20Time-ff6b6b?style=for-the-badge"/><br/><sub>PySpark Databricks · Flipkart</sub>
 </td>
 </tr>
 </table>
@@ -175,8 +189,8 @@ target_roles    : ["Senior Data Engineer", "Staff Data Engineer", "Data Architec
 
 </div>
 
-**AWS:** `EC2` `S3` `Glue` `Lambda` `Redshift` `EMR` `CloudWatch` `IAM` `CloudFormation` `RDS` `DynamoDB` `Bedrock` `Athena`
-**Azure:** `Data Factory` `Synapse Analytics` `Azure SQL DB` `Azure Data Lake` `Azure Monitor` `Azure DevOps` `Azure Key Vault`
+**AWS:** `EC2` `S3` `Glue` `Lambda` `Redshift` `EMR` `CloudWatch` `IAM` `DynamoDB` `Bedrock` `Athena`
+**Azure:** `Data Factory` `Synapse Analytics` `Azure SQL DB` `Azure Data Lake` `Azure Monitor` `Azure DevOps` `Azure Key Vault` `Azure Purview`
 **Snowflake:** `Snowpipe` `Streams` `Tasks` `Dynamic Data Masking` `RBAC` `Row-Level Security` `Access History` `UDFs`
 **GCP:** `BigQuery` `Cloud Storage` `Dataflow`
 
@@ -194,7 +208,7 @@ target_roles    : ["Senior Data Engineer", "Staff Data Engineer", "Data Architec
 
 </div>
 
-**GenAI Stack:** `LLM Pipelines` `RAG (Retrieval-Augmented Generation)` `Prompt Engineering` `AI-Ready Data Architectures` `AWS Bedrock` `Azure OpenAI` `LangChain` `Vector Databases` `ML-Ready Data Pipelines`
+**GenAI Stack:** `LLM Pipelines` `RAG (Retrieval-Augmented Generation)` `Prompt Engineering` `AI-Ready Data Architectures` `AWS Bedrock` `Azure OpenAI` `LangChain` `Vector Databases` `Natural Language Data Q&A` `ML-Ready Data Pipelines`
 
 ---
 
@@ -212,7 +226,7 @@ target_roles    : ["Senior Data Engineer", "Staff Data Engineer", "Data Architec
 
 **Architectures:** `Medallion (Bronze/Silver/Gold)` `Lakehouse` `Data Vault` `Star Schema` `Snowflake Schema` `3NF` `Serverless` `Microservices`
 **Patterns:** `Real-Time Streaming` `Batch ETL/ELT` `CDC` `SCD Type 1 & 2` `Lambda Architecture` `Self-Healing Pipelines`
-**dbt:** `Staging Models` `Intermediate Models` `Marts` `Snapshots` `Jinja Macros` `YAML Configs` `Automated Testing`
+**dbt:** `Staging Models` `Intermediate Models` `Marts` `Snapshots` `Jinja Macros` `YAML Configs` `Automated Testing` `Semantic Layer` `Data Contracts`
 
 ---
 
@@ -228,7 +242,8 @@ target_roles    : ["Senior Data Engineer", "Staff Data Engineer", "Data Architec
 </div>
 
 **Security:** `Azure Key Vault` `Dynamic Data Masking` `Row-Level Security` `IAM` `OAuth/SSO` `Audit Logging` `HIPAA/PII/PHI Compliance`
-**Observability:** `Data Observability` `Amazon Athena` `CloudWatch` `Azure Monitor` `Splunk` `Grafana` `Prometheus` `New Relic` `ELK Stack`
+**Governance:** `Azure Purview` `Data Lineage` `Data Contracts` `Semantic Layer Definitions` `Databricks Unity Catalog` `Column-Level Security`
+**Observability:** `Data Observability` `Amazon Athena` `CloudWatch` `Azure Monitor` `Grafana` `Prometheus` `ELK Stack`
 
 ---
 
@@ -254,7 +269,7 @@ target_roles    : ["Senior Data Engineer", "Staff Data Engineer", "Data Architec
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 
 ### 📊 Visualization & Reporting
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -279,14 +294,14 @@ target_roles    : ["Senior Data Engineer", "Staff Data Engineer", "Data Architec
 
 ### 🔷 [AWS S3 · dbt · Snowflake Data Engineering Pipeline](https://github.com/Pavankolli0601/aws-dbt-snowflake-project)
 
-> **Production-style AWS → Snowflake → dbt pipeline — Medallion Architecture · Incremental Models · SCD Type 2 · GitHub Actions CI/CD · Data Quality Tests**
+> **Production-style AWS → Snowflake → dbt pipeline — Medallion Architecture · Incremental Models · SCD Type 2 · Terraform IaC · GitHub Actions CI/CD · Data Quality Tests**
 
 ```
 📦 aws-dbt-snowflake-project
  │
  ├── 🥉 BRONZE LAYER  ──►  models/bronze/
  │        ├── bronze_bookings    (incremental merge · idempotent loads · business keys)
- │        ├── bronze_hosts       (raw ingestion from AWS S3 staging)
+ │        ├── bronze_hosts       (raw ingestion from AWS S3 via Glue crawlers)
  │        └── bronze_listings    (safe re-runs · merge strategy)
  │
  ├── 🥈 SILVER LAYER  ──►  models/silver/
@@ -303,8 +318,11 @@ target_roles    : ["Senior Data Engineer", "Staff Data Engineer", "Data Architec
  ├── 📸 SNAPSHOTS     ──►  snapshots/
  │        └── SCD Type 2 · valid-from/to timestamps · change detection
  │
- ├── 🔧 MACROS        ──►  macros/    (reusable SQL utilities)
+ ├── 🔧 MACROS        ──►  macros/    (reusable Jinja SQL utilities)
  ├── ✅ TESTS         ──►  tests/     (schema + singular data quality)
+ │
+ ├── 🏗️  INFRA        ──►  Terraform IaC
+ │        └── S3 buckets · Glue jobs · Snowflake roles · warehouses · schemas
  │
  ├── 🚀 CI/CD         ──►  GitHub Actions (on every PR + push to main)
  │        dbt deps → dbt compile → dbt build → dbt test → sqlfluff lint
@@ -316,10 +334,11 @@ target_roles    : ["Senior Data Engineer", "Staff Data Engineer", "Data Architec
 
 | Layer | Models | Purpose |
 |:---:|:---:|:---|
-| 🥉 Bronze | `bronze_bookings` · `bronze_hosts` · `bronze_listings` | Raw incremental ingestion from AWS S3 |
+| 🥉 Bronze | `bronze_bookings` · `bronze_hosts` · `bronze_listings` | Raw incremental ingestion from AWS S3 via Glue |
 | 🥈 Silver | Cleaned transforms | Standardized · rolling lookback (configurable) |
 | 🥇 Gold | `dim_bookings` · `dim_hosts` · `dim_listings` · `fact` · `obt` | Analytics-ready star schema + OBT |
 | 📸 Snapshots | Bookings · Hosts · Listings | SCD Type 2 · historical state tracking |
+| 🏗️ IaC | Terraform | S3 · Glue · Snowflake roles · schemas provisioned |
 | 🚀 CI/CD | GitHub Actions | dbt build + test + SQLFluff on every commit |
 
 </div>
@@ -329,6 +348,7 @@ target_roles    : ["Senior Data Engineer", "Staff Data Engineer", "Data Architec
 ![dbt](https://img.shields.io/badge/dbt_core_1.11-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![SQLFluff](https://img.shields.io/badge/SQLFluff-Linting-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -338,38 +358,59 @@ target_roles    : ["Senior Data Engineer", "Staff Data Engineer", "Data Architec
 ---
 
 <div align="center">
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━%20PROJECT%2002%20━━━━━━━━━━━━-Databricks_E2E_Retail_Analytics-0a84ff?style=for-the-badge&labelColor=0a192f"/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━%20PROJECT%2002%20━━━━━━━━━━━━-Databricks_E2E_Lakehouse_Platform-0a84ff?style=for-the-badge&labelColor=0a192f"/>
 </div>
 
 <br/>
 
-### 🔷 [Databricks E2E Retail Analytics Platform](https://github.com/Pavankolli0601/databricks-e2e-project-pavan)
+### 🔷 [Databricks E2E Lakehouse Platform](https://github.com/Pavankolli0601/databricks-e2e-project-pavan)
 
-> **Production retail data platform — PySpark · Delta Lake · Medallion Architecture · CI/CD · Unit Testing**
+> **Production-grade Azure Databricks Lakehouse — Delta Lake · Unity Catalog · 50M+ Daily Records · PySpark Streaming · ADF · Power BI · ↓30% Compute Costs**
 
 ```
 📦 databricks-e2e-project-pavan
  │
- ├── 🥉 BRONZE LAYER  ──►  Raw ingestion
+ ├── 🥉 BRONZE LAYER  ──►  Raw ingestion via Azure Data Factory
  │        └── Clickstream · transactional · API sources
  │
- ├── 🥈 SILVER LAYER  ──►  PySpark transforms
+ ├── 🥈 SILVER LAYER  ──►  PySpark batch + structured streaming transforms
  │        └── Clean · validate · deduplicate · standardize
+ │            50M+ daily records processed
  │
- ├── 🥇 GOLD LAYER    ──►  Business-ready KPIs
- │        └── Supply chain · personalization · forecasting metrics
+ ├── 🥇 GOLD LAYER    ──►  Business-ready KPIs → Power BI reporting
+ │        └── Sub-2-hour data freshness SLA to stakeholders
  │
- ├── 🔁 CI PIPELINE   ──►  Automated on every commit
- │        └── build → lint → unit tests
+ ├── 🔐 GOVERNANCE    ──►  Databricks Unity Catalog
+ │        └── Column-level security · data lineage · fine-grained access controls
  │
- └── 🧪 TEST SUITE    ──►  Unit tests for all transformation logic
+ ├── 💰 COST OPT      ──►  Cluster autoscaling policies
+ │        └── ↓30% compute costs
+ │
+ └── 🔁 CI PIPELINE   ──►  Automated on every commit
+          └── build → lint → unit tests
 ```
+
+<div align="center">
+
+| Component | Detail |
+|:---:|:---|
+| 🥉 Bronze | ADF-scheduled ingestion · clickstream · transactional · API sources |
+| 🥈 Silver | PySpark batch + structured streaming · 50M+ daily records |
+| 🥇 Gold | Power BI reporting · sub-2-hour freshness SLA |
+| 🔐 Governance | Unity Catalog · column-level security · data lineage |
+| 💰 Cost | Cluster autoscaling · ↓30% compute costs |
+| 🔁 CI/CD | Automated build → lint → unit tests on every commit |
+
+</div>
 
 <div align="center">
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=databricks&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
@@ -380,17 +421,21 @@ target_roles    : ["Senior Data Engineer", "Staff Data Engineer", "Data Architec
 ### 🔧 Additional Projects & Initiatives
 
 <details>
-<summary><b>🤖 AI-Ready Data Architecture with Generative AI Pipeline</b></summary>
+<summary><b>🤖 Generative AI Data Q&A Tool — AWS Bedrock + RAG + Snowflake (CVS Health)</b></summary>
 <br/>
 
 ```
-Enterprise Data Sources → Data Lakehouse → Vector Store → LLM Layer → AI Insights
-                                  ↓
-                     AWS Bedrock / Azure OpenAI / LangChain
+Non-Technical Stakeholders
+         ↓  Natural Language Query
+  AWS Bedrock (LLM Layer)
+         ↓  RAG-Based Retrieval
+  Vector Store  ←→  Curated Snowflake Datasets
+         ↓
+  AI-Generated Insights
 ```
-- Designed **AI-ready data architectures** enabling advanced ML workflows on top of clean lakehouse layers
-- RAG (Retrieval-Augmented Generation) pipelines for enterprise data Q&A
-- Stack: `aws-bedrock` `azure-openai` `langchain` `python` `vector-db` `snowflake`
+- Built internal data Q&A tool using **AWS Bedrock** generative AI services, enabling non-technical stakeholders to query Snowflake datasets via natural language
+- **RAG (Retrieval-Augmented Generation)** pipeline for grounded, accurate enterprise data responses
+- Stack: `aws-bedrock` `langchain` `rag-pipelines` `vector-databases` `snowflake` `python` `prompt-engineering`
 
 </details>
 
@@ -402,10 +447,14 @@ Enterprise Data Sources → Data Lakehouse → Vector Store → LLM Layer → AI
 S3 Events → AWS Lambda → AWS Glue → Snowflake DW
                 ↓ on error
         DLQ → CloudWatch Alert → Auto-Retry
+                ↓
+      S3 Lifecycle Policies → ↓18% Storage Costs
 ```
-- Serverless ingestion with automated schema detection — **↓40% ingestion latency**
-- Full HIPAA/PII compliance: RBAC · dynamic data masking · row-level security
-- Stack: `aws-glue` `aws-lambda` `s3` `snowflake` `terraform` `github-actions`
+- Serverless ingestion with automated anomaly detection — **↓40% ingestion latency**
+- Full HIPAA/PII compliance: RBAC · dynamic data masking · row-level security — **zero audit violations**
+- Cost-tagging strategies + S3 lifecycle policies → **↓18% monthly AWS storage costs**
+- Collaborated with pharmacy, clinical & BI teams to standardize **50+ KPIs** across 5 business units via dbt data contracts
+- Stack: `aws-glue` `aws-lambda` `s3` `snowflake` `terraform` `github-actions` `dbt` `apache-airflow`
 
 </details>
 
@@ -417,10 +466,14 @@ S3 Events → AWS Lambda → AWS Glue → Snowflake DW
 On-Prem Oracle/SQL → Azure Data Lake → Azure Data Factory → Snowflake
                                               ↓
                               Python DQ Validation Framework (99% accuracy)
+                                              ↓
+                              Azure Purview — 500+ Datasets Tagged
 ```
 - Migrated millions of financial records with **100% data integrity** and **↑30% system performance**
+- SCD Type 2 historical tracking tables for point-in-time RBI regulatory reporting
+- Centralized data governance catalog via **Azure Purview** — tagged 500+ datasets with lineage & ownership, improving data discoverability by 35%
 - Automated Power BI compliance dashboards → **↓60% manual reporting effort**
-- Stack: `azure-data-factory` `azure-sql-db` `azure-data-lake` `snowflake` `snowpipe` `python` `gitlab-ci`
+- Stack: `azure-data-factory` `azure-sql-db` `azure-data-lake` `snowflake` `snowpipe` `python` `gitlab-ci` `azure-purview`
 
 </details>
 
@@ -432,21 +485,25 @@ On-Prem Oracle/SQL → Azure Data Lake → Azure Data Factory → Snowflake
 User Events → Kafka Topics → Airflow DAGs (Azure) → Azure Synapse / Snowflake
                                      ↓
                     Near-real-time BI · Azure Monitor · Tableau
+                                     ↓
+              PySpark Databricks — 50M+ records · ↓45% job execution time
 ```
 - High-volume streaming pipelines on Azure — **↓70% processing lag**
+- PySpark batch jobs on Azure Databricks → **↓45% job execution time** via partition tuning & broadcast joins
 - Azure Synapse SQL tuning → **↑25% data retrieval speed**
 - Cost observability → **↓20% cloud spend** via Azure Monitor + Tableau
-- Stack: `kafka` `airflow` `azure-synapse` `azure-monitor` `dbt` `python` `tableau`
+- Medallion Architecture on Azure Data Lake Gen2 serving **10+ downstream teams**
+- Stack: `kafka` `airflow` `azure-synapse` `azure-databricks` `azure-monitor` `dbt` `pyspark` `python` `tableau`
 
 </details>
 
 <details>
-<summary><b>✅ Python Data Quality & Reconciliation Engine</b></summary>
+<summary><b>✅ Python Data Quality & Reconciliation Engine (HDFC Bank)</b></summary>
 <br/>
 
 - Automated financial data validation across schema, record counts, and business rules
-- **99% accuracy** across all records — drastically reduced audit discrepancies at HDFC Bank
-- Runs automatically on every CI/CD deployment
+- **99% accuracy** across all records — **↓80% audit discrepancies** at HDFC Bank
+- Runs automatically on every CI/CD deployment via GitLab CI/CD
 - Stack: `python` `sql` `snowflake` `pytest` `gitlab-ci`
 
 </details>
@@ -458,9 +515,9 @@ User Events → Kafka Topics → Airflow DAGs (Azure) → Azure Synapse / Snowfl
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
- Aug 2024 – Present  (1 year 8 months)
+ Aug 2024 – Present
  ┌────────────────────────────────────────────────────────────┐
- │  CONCENTRIX CATALYST  ·  Tampa, FL (Remote)                │
+ │  CONCENTRIX CATALYST                                       │
  │  Senior Data Engineer — Client: CVS Health                 │
  ├────────────────────────────────────────────────────────────┤
  │  Domain: Healthcare · HIPAA · Payer & Pharmacy Analytics   │
@@ -468,15 +525,21 @@ User Events → Kafka Topics → Airflow DAGs (Azure) → Azure Synapse / Snowfl
  │  ✦ Serverless ingestion (AWS Glue · Lambda · S3 Events)    │
  │    → ↓40% ingestion latency                                │
  │  ✦ Enterprise Snowflake DW for CVS Health                  │
- │    → ↓40% data access time                                 │
+ │    → ↓40% data access time · ↑25% decision speed          │
  │  ✦ RBAC · Dynamic Masking · Row-Level Security             │
  │    → HIPAA/PII compliant · passed all quarterly audits     │
  │  ✦ Terraform IaC (Snowflake objects · IAM · networking)    │
  │    → ↓80% manual setup time                                │
  │  ✦ GitHub Actions CI/CD for dbt deployments                │
  │    → 100% consistent compliant releases                    │
- │  ✦ AWS CloudWatch anomaly detection                        │
- │    → ↓30% data downtime                                    │
+ │  ✦ AWS CloudWatch anomaly detection + Airflow DAGs         │
+ │    → ↓30% data downtime · ↑40% pipeline reliability       │
+ │  ✦ AWS Bedrock GenAI Q&A tool (RAG + Snowflake)            │
+ │    → Natural language queries for non-technical users      │
+ │  ✦ S3 lifecycle policies + cost-tagging strategies         │
+ │    → ↓18% monthly AWS storage costs                       │
+ │  ✦ dbt semantic layer · data contracts                     │
+ │    → 50+ KPIs standardized across 5 business units        │
  └────────────────────────────────────────────────────────────┘
 
  Jan 2023 – Aug 2024
@@ -489,7 +552,7 @@ User Events → Kafka Topics → Airflow DAGs (Azure) → Azure Synapse / Snowfl
  Jan 2021 – Dec 2022  (2 years)
  ┌────────────────────────────────────────────────────────────┐
  │  HDFC BANK · Hyderabad, India                              │
- │  Data Engineer (Full-Time)                                 │
+ │  Data Engineer                                             │
  ├────────────────────────────────────────────────────────────┤
  │  Domain: Financial Services · Regulatory Compliance        │
  │                                                            │
@@ -498,6 +561,10 @@ User Events → Kafka Topics → Airflow DAGs (Azure) → Azure Synapse / Snowfl
  │  ✦ Snowpipe + Azure Data Factory real-time streaming       │
  │    → millions of daily transactions · hours → minutes      │
  │  ✦ Python DQ & validation framework → 99% accuracy         │
+ │    → ↓80% audit discrepancies                              │
+ │  ✦ SCD Type 2 in Snowflake for RBI regulatory reporting    │
+ │  ✦ Azure Purview governance catalog → 500+ datasets tagged │
+ │    → ↑35% data discoverability                             │
  │  ✦ Automated Power BI compliance dashboards                │
  │    → ↓60% manual reporting effort (all global BUs)         │
  │  ✦ GitLab CI/CD with automated schema checks               │
@@ -507,17 +574,24 @@ User Events → Kafka Topics → Airflow DAGs (Azure) → Azure Synapse / Snowfl
  Aug 2017 – Dec 2020  (3 years 5 months)
  ┌────────────────────────────────────────────────────────────┐
  │  FLIPKART · Hyderabad, Telangana, India                    │
- │  Data Engineer (Full-Time)                                 │
+ │  Data Engineer                                             │
  ├────────────────────────────────────────────────────────────┤
  │  Domain: E-Commerce · Real-Time Analytics · Azure          │
  │                                                            │
  │  ✦ Kafka-Airflow streaming pipelines on Azure              │
  │    → ↓70% data processing lag                              │
+ │  ✦ Medallion Architecture on Azure Data Lake Gen2          │
+ │    → clean Bronze/Silver/Gold layers · 10+ downstream teams│
+ │  ✦ PySpark batch jobs on Azure Databricks                  │
+ │    → ↓45% job execution time (partition tuning)            │
  │  ✦ Azure Monitor + Tableau observability dashboards        │
  │    → ↓20% cloud costs via resource optimization            │
  │  ✦ Modular dbt transformation layers for data science      │
+ │    → ↑20% forecasting accuracy · ↓30% pipeline failures   │
  │  ✦ Azure Synapse SQL tuning                                │
  │    → ↑25% data retrieval speed for predictive modeling     │
+ │  ✦ Azure DevOps CI/CD automation                           │
+ │    → weekly → daily release cycles · zero manual errors    │
  └────────────────────────────────────────────────────────────┘
 
  Aug 2013 – May 2017
@@ -537,9 +611,9 @@ User Events → Kafka Topics → Airflow DAGs (Azure) → Azure Synapse / Snowfl
 <summary><b>🤖 Generative AI · AI-Ready Architectures · LLM Data Pipelines</b></summary>
 <br/>
 
-- Certified in **Generative AI Fundamentals** and **Microsoft Azure AI Essentials**
+- Certified in **AWS Certified Data Engineer – Associate**, **Generative AI Fundamentals** and **Microsoft Azure AI Essentials**
+- Built production **AWS Bedrock GenAI Q&A tool** at CVS Health — RAG pipeline enabling natural language queries over curated Snowflake datasets for non-technical stakeholders
 - Designing **secure, AI-ready data architectures** that power advanced ML workflows
-- RAG (Retrieval-Augmented Generation) pipelines using AWS Bedrock and Azure OpenAI
 - LangChain orchestration for multi-step AI enrichment on enterprise data
 - Building ML-ready clean lakehouse layers (Bronze → Silver → Gold) for data science teams
 
@@ -554,6 +628,7 @@ User Events → Kafka Topics → Airflow DAGs (Azure) → Azure Synapse / Snowfl
 - Snowflake Access History for complete **PHI audit trail**
 - OAuth/SSO integration for compliant identity management
 - ✅ Passed **all quarterly security audits** with zero violations
+- Standardized **50+ KPIs** across 5 business units via dbt data contracts and semantic layer definitions
 
 </details>
 
@@ -562,10 +637,11 @@ User Events → Kafka Topics → Airflow DAGs (Azure) → Azure Synapse / Snowfl
 <br/>
 
 - Migrated millions of financial records on-prem → **Azure + Snowflake** at 100% integrity
+- SCD Type 2 historical tracking in Snowflake for **RBI regulatory reporting**
+- Centralized governance via **Azure Purview** — 500+ datasets tagged, ↑35% discoverability
 - Automated Power BI compliance dashboards → **↓60% manual reporting** across all global BUs
-- Python DQ framework → **99% validation accuracy** reducing audit discrepancies
+- Python DQ framework → **99% validation accuracy**, **↓80% audit discrepancies**
 - GitLab CI/CD schema checks → **100% regulatory deployment compliance**
-- Real-time streaming via Snowpipe + Azure Data Factory (hours → minutes delivery)
 
 </details>
 
@@ -574,21 +650,24 @@ User Events → Kafka Topics → Airflow DAGs (Azure) → Azure Synapse / Snowfl
 <br/>
 
 - Kafka + Airflow pipelines on **Azure** at Flipkart scale — **↓70% processing lag**
+- **Medallion Architecture** on Azure Data Lake Gen2 (Bronze/Silver/Gold) serving 10+ downstream teams
+- PySpark batch jobs on Azure Databricks → **↓45% job execution time** via partition tuning & broadcast joins
+- Modular dbt transformation layers → **↑20% ML forecasting accuracy**, **↓30% pipeline failures**
 - Azure Synapse SQL tuning → **↑25% query speed** for predictive modeling
 - Azure Monitor + Tableau observability → **↓20% cloud costs**
-- Modular dbt transformation layers powering ML and data science teams
 
 </details>
 
 <details>
-<summary><b>🔐 Data Governance · Security · Azure Key Vault · Observability</b></summary>
+<summary><b>🔐 Data Governance · Security · Azure Purview · Observability</b></summary>
 <br/>
 
+- **Azure Purview** centralized data governance catalog — 500+ datasets tagged with lineage & ownership
+- **Databricks Unity Catalog** — column-level security, data lineage, fine-grained access controls
 - **Azure Key Vault** for secrets management and enterprise-grade security
 - **Data Observability** frameworks: pipeline health monitoring, anomaly detection, DQ SLAs
-- **Amazon Athena** for serverless query and cost-efficient data lake analytics
 - Dynamic data masking · Row-level security · RBAC/ABAC · IAM · OAuth/SSO
-- CloudWatch · Azure Monitor · Splunk · Grafana · Prometheus · New Relic · ELK full-stack
+- CloudWatch · Azure Monitor · Grafana · Prometheus · ELK full-stack
 
 </details>
 
