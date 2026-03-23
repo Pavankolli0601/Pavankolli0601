@@ -574,7 +574,7 @@ User Events → Kafka Topics → Airflow DAGs (Azure) → Azure Synapse / Snowfl
  Aug 2017 – Dec 2020  (3 years 5 months)
  ┌────────────────────────────────────────────────────────────┐
  │  FLIPKART · Hyderabad, Telangana, India                    │
- │  Data Engineer                                             │
+ │  Data Platform Engineer                                             │
  ├────────────────────────────────────────────────────────────┤
  │  Domain: E-Commerce · Real-Time Analytics · Azure          │
  │                                                            │
